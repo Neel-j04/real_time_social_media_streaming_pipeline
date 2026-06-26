@@ -1,0 +1,21 @@
+"platform","influencer_name","subscribers","avg_views","avg_likes"
+"YouTube","Kyle Cochran","44472","7187","1190"
+"YouTube","David Stewart","34302","5808","644"
+"Instagram","Douglas Perry","29124",NULL,NULL
+"TikTok","Aaron York","22483","4493",NULL
+"Instagram","Greg Hobbs","15556",NULL,NULL
+"Instagram","Matthew Garcia","11662",NULL,NULL
+"TikTok","Jennifer Hernandez","11419","3057",NULL
+"YouTube","Andrew Hernandez","10919","2464","438"
+"TikTok","Andrea Jackson","9490","909",NULL
+"YouTube","Phillip Potter","9083","1530","233"
+"YouTube","Paul Curtis","8954","1311","192"
+"Instagram","Michael Crawford","8178",NULL,NULL
+"Instagram","Michael Livingston","8015",NULL,NULL
+"Instagram","Douglas Frazier","7997",NULL,NULL
+"Instagram","Michael Rodriguez","7783",NULL,NULL
+"Instagram","Crystal Simpson","7312",NULL,NULL
+"Instagram","Kimberly Huff","7248",NULL,NULL
+"Instagram","Elizabeth Myers","7184",NULL,NULL
+"YouTube","Kaitlyn Lewis","6807","608","101"
+"YouTube","Nathan Lyons","6472","1356","56"
